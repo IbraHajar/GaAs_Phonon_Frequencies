@@ -15,14 +15,6 @@ This will create an environment named phonopy with all required packages.
 
 
 
-
-
-
-
-
-
-
-
 3. Ensure that your working directory has the following folders:
 - conf_files
 - output
