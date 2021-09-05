@@ -1,5 +1,5 @@
 # GaAs_Phonon_Frequencies
-1. Download Anaconda from [anaconda.com].
+1. Download Anaconda from anaconda.com.
 
 2. To create a conda environment that mirrors ours:
 ```
@@ -35,7 +35,7 @@ The output of phonopy is the following 2 files added to each directory:
 These files contain the eigenvectors corresponding to the random isotope configurations created by gallium.py.
 Note that this can be a slow process of operating on a large number of conf files.
 Consider using "parallel" processing to speed this up.
-Check out gnu parallel at [https://www.gnu.org/software/parallel/sphinx.html]
+Check out gnu parallel at https://www.gnu.org/software/parallel/sphinx.html
 
 6. Run analyze.py
 ```
