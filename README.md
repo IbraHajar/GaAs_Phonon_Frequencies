@@ -60,7 +60,7 @@ This generates the data, i.e. base1.txt, base2.txt, base3.txt.
 ```
 % python stats.py
 ```
-This produces the file results.txt containing the mean and standard deviation for each base.
+This outputs the mean and standard deviation for each base.
 
 
 For questions or clarifications please email me at ihajar@ucsd.edu.
