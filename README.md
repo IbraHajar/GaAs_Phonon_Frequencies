@@ -4,9 +4,7 @@
 
 
 2. To create a conda environment that mirrors ours:
-```
-% conda env create --file requirements.yml
-```
+```% conda env create --file requirements.yml```
 This will create an environment named phonopy with all required packages.
 
 
